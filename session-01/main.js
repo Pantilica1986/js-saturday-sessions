@@ -14,5 +14,18 @@ inputNr = Number(inputNr);
 let prevNr = inputNr - 1;
 let nextNr = inputNr + 1; 
 
-alert('The numbers sequence: ' + prevNr + ', ' + inputNr + ', ' + nextNr)
-alert(`The numbers sequence: ${prevNr}, ${inputNr}, ${nextNr}`);
+// Secvența numerelor: numărul anterior, numărul curent și numărul următor
+alert('The numbers sequence: ' + prevNr + ', ' + inputNr + ', ' + nextNr);
+// alert(`The numbers sequence: ${prevNr}, ${inputNr}, ${nextNr}`);
+
+// Opozitul numărului
+alert('The opposite of ' + inputNr + ' is: ' + -inputNr);
+// alert(`The opposite of ${inputNr} is: ${-inputNr}`);
+
+// Restul împărțirii la 2
+alert('The remainder of ' + inputNr + ' divided by 2 is: ' + inputNr % 2);
+// alert(`The remainder of ${inputNr} divided by 2 is: ${inputNr % 2}`);
+
+// 2 la puterea numărului introdus
+alert('2 to the power of ' + inputNr + ' equals: ' + 2 ** inputNr);
+// alert(`2 to the power of ${inputNr} equals: ${2 ** inputNr}`);

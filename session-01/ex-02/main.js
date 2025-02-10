@@ -1,4 +1,4 @@
-/*The user enters two numeric values. The program displays:
+/*CHALLENGE 2: The user enters two numeric values. The program displays:
 Their sum,
 Their difference,
 Their product,

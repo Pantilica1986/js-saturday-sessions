@@ -3,4 +3,4 @@ Web Complete extra sessions
 
 ## Session 1
 
-Course programing sequences
+Course programing sequences# js-saturday-sessions
